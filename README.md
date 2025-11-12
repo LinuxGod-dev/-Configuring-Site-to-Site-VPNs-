@@ -472,7 +472,7 @@ which required components have been completed.
 
 <img width="1233" height="508" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/6600fe40-b8a5-42d3-a1f8-b3bb16de8b25" />
 
-#Conclusion
+# Conclusion
 
 In conclusion, successfully configuring the site-to-site IPsec VPN between R1 and R3 achieves the goal 
 of securing sensitive LAN traffic as it traverses the public or untrusted network segment via the 
